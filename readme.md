@@ -7,8 +7,11 @@
 #### Intermediate to Advanced Level
 
 _Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming._
+
 _Designed by: Guido van Rossum_
+
 _First appeared: 20 February 1991_
+
 https://www.python.org/doc/essays/blurb/
 
 
